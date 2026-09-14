@@ -1,0 +1,3 @@
+hello    world ,   this   is   a    TEST .   operating   systems    is   FUN !
+how   ARE   you   doing   today ?   i    hope    EVERYTHING   is   going    well .
+the   quick   BROWN   fox    jumps   OVER   the    lazy   DOG .
