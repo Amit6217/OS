@@ -5,7 +5,7 @@
 #include <ctype.h>
 #include <sys/wait.h>
 
-#define BUFFER_SIZE 65536
+#define BUFFER_SIZE 70000
 
 void process2_text_formatter(int read_fd, int write_fd) {
     char in_buf[BUFFER_SIZE];
